@@ -2,7 +2,7 @@
 
 A Streamlit application for visualizing supermarket sales data.
 
-![image](https://github.com/thiagomv-ca/Dashboard-with-Python/assets/13485125/28663259-3a9a-4d7e-a92d-5119fb7a16f8)
+<img width="1462" alt="Screenshot 2023-11-03 at 10 36 55 PM" src="https://github.com/thiagomv-ca/PythonDashboard/assets/13485125/77f5cee9-15e8-47e0-8e97-047350ba97fd">
 
 
 ## Project Details
@@ -10,15 +10,6 @@ This project serves as an illustrative example of utilizing data for business an
 
 The application includes informative charts showcasing revenue trends on a daily basis, product category performance, branch-specific contributions, payment method effectiveness, and branch ratings.
 
-## How to Run
-
-To view this application in the browser, run the following command in the terminal:
-
-```bash
-streamlit run dashboards.py
-```
-
-This will open the application in your default web browser.
 
 ## Requirements
 Make sure to have the following Python libraries installed:
@@ -32,10 +23,21 @@ You can install them using the following command:
 ```bash
 pip install streamlit pandas plotly
 ```
+
 ## Project Structure
 
 dashboards.py: Python file containing the Streamlit application code.
 
 supermarket_sales.csv: Supermarket sales data file.
+
+## How to Run
+
+To view this application in the browser, run the following command in the terminal:
+
+```bash
+streamlit run dashboards.py
+```
+
+This will open the application in your default web browser.
 
 
